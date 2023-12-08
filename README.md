@@ -1,5 +1,4 @@
-# CodeClauseInternship_TodoList
-React js
+
 
 This repository contains only the src file of the react .... 
 
